@@ -1,0 +1,3 @@
+# LiRTest: Augmenting LiDAR Point Clouds for Automated Testing of Autonomous Driving Systems
+
+LiRTest implements the ADS-specific metamorphic relation and equips affine and weather transformation operators that can reflect the impact of the various environmental factors to implement the relation. We experiment LiRTest with multiple 3D object detection models to evaluate its performance on different tasks. The experiment results show that LiRTest can activate different neurons of the object detection models and effectively detect their erroneous behaviors under various driving conditions. Also, the results confirm that LiRTest can improve the object detection precision by retraining with the generated data.

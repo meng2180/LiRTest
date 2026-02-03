@@ -7,11 +7,20 @@ LiRTest implements the ADS-specific metamorphic relation and equips affine and w
 ## Citation
 
 ```shell
-@inproceedings{guo2022lirtest,
-  title={LiRTest: augmenting LiDAR point clouds for automated testing of autonomous driving systems},
-  author={Guo, An and Feng, Yang and Chen, Zhenyu},
-  booktitle={Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis},
-  pages={480--492},
-  year={2022}
+@inproceedings{10.1145/3533767.3534397,
+author = {Guo, An and Feng, Yang and Chen, Zhenyu},
+title = {LiRTest: augmenting LiDAR point clouds for automated testing of autonomous driving systems},
+year = {2022},
+isbn = {9781450393799},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3533767.3534397},
+doi = {10.1145/3533767.3534397},
+booktitle = {Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis},
+pages = {480–492},
+numpages = {13},
+keywords = {Software Testing, Metamorphic Testing, Data Augmentation, Autonomous Driving System},
+location = {Virtual, South Korea},
+series = {ISSTA 2022}
 }
 ```
